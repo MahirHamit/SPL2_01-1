@@ -9,7 +9,7 @@
 ### Teil 2
 - [x] python 3.x installieren
 - [x] cmder (linux consolen emulator) installiert
-- [ ] erste Schritte mit python
+- [x] erste Schritte mit python
 - [ ] programmieren mit python
 
 
